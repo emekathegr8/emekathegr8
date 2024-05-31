@@ -1,6 +1,4 @@
-## Frontend Engineer.
+# Frontend Engineer.
 
 
-Write, Design & Build.
-
-- 📫 How to reach me: <a href="https://linkedin.com/in/emekamba">Linkedin</a> 
+Write, Design & Build. Reach me on 📫 <a href="https://linkedin.com/in/emekamba">Linkedin</a> 
